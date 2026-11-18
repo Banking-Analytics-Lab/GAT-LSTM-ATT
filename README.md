@@ -20,7 +20,7 @@ Repository structure:
 - `Data Processing`: notebooks for data preparation and cleaning.
 - `Network Construction`: notebooks for building the network structures.
 - `Models`: notebooks with the implementations of the models.
-- `Data`: details about the dataset and a link to download it.
+- `data/README.md`: details about the dataset and a link to download it.
 
 ## Requirements
 
@@ -46,7 +46,7 @@ training time of each model.
 The data are Freddie Mac's Single-Family Loan-Level (SFLL) dataset:
 <https://www.freddiemac.com/research/datasets/sf-loanlevel-dataset>. Freddie Mac distributes it
 after registration and sign-in, under the terms and conditions linked from that page. The data are
-not in this repository. The file `Data` in this repository describes the dataset, the sample used
+not in this repository. The file [`data/README.md`](data/README.md) describes the dataset, the sample used
 in the paper and the files the notebooks expect.
 
 Every notebook reads and writes bare file names in its working directory. There is no data
