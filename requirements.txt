@@ -1,0 +1,13 @@
+# The package versions used for the paper were not recorded.
+# Package names come from the imports in the notebooks. The first cell of each model notebook also
+# installs torch-scatter, torch-sparse, torch-cluster and torch-spline-conv from the PyTorch
+# Geometric wheel index. The notebooks call nx.read_gpickle and nx.write_gpickle, which NetworkX 3.0
+# removed.
+networkx
+numpy
+pandas
+python-dateutil
+torch
+torch-geometric
+torchmetrics
+tqdm
