@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "GAT-LSTM-ATT"
+license: Apache-2.0
+repository-code: "https://github.com/Banking-Analytics-Lab/GAT-LSTM-ATT"
+authors:
+  - family-names: "Zandi"
+    given-names: "Sahab"
+  - family-names: "Korangi"
+    given-names: "Kamesh"
+  - family-names: "Óskarsdóttir"
+    given-names: "María"
+  - family-names: "Mues"
+    given-names: "Christophe"
+  - family-names: "Bravo"
+    given-names: "Cristián"
+preferred-citation:
+  type: article
+  title: "Attention-based dynamic multilayer graph neural networks for loan default prediction"
+  year: 2025
+  month: 3
+  journal: "European Journal of Operational Research"
+  volume: 321
+  issue: 2
+  start: 586
+  end: 599
+  doi: "10.1016/j.ejor.2024.09.025"
+  authors:
+    - family-names: "Zandi"
+      given-names: "Sahab"
+    - family-names: "Korangi"
+      given-names: "Kamesh"
+    - family-names: "Óskarsdóttir"
+      given-names: "María"
+    - family-names: "Mues"
+      given-names: "Christophe"
+    - family-names: "Bravo"
+      given-names: "Cristián"
